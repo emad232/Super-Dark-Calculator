@@ -50,7 +50,7 @@ i will be happy if you guys tell me problems of App or send me your messages
 
 here is my email address (i will be happy to answer for sure)
 
-> **emad909bahrami@gmail.com**
+> **gunn9071@gmail.com**
 
 please set subject of email like this or try to have this words in your subject
 
