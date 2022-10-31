@@ -226,7 +226,7 @@ button {
   background: #1e2022;
   color: #ffffff;
   font-weight: 300;
-  padding: 25%;
+  padding: 15%;
   border: 0.5px solid #191b1d;
   border-radius: 0px !important;
 }
@@ -272,5 +272,9 @@ button {
   padding-left: 10px;
   padding-right: 10px;
   border-radius: 40px;
+}
+body{
+  background-color: #191b1d;
+
 }
 </style>
